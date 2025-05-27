@@ -19,8 +19,7 @@ h1, h2, h5 {
 .lead { 
    color: var(--cor-desta);
    font-weight: 700;
-
-  }
+}
 
 a, bnt-link:houver { 
     color: var(--cor-principal);
